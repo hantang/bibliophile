@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       USER: hantang
-      REPO: bookworm-doc
+      REPO: bibliophile-doc
 
     steps:
       - name: Checkout site

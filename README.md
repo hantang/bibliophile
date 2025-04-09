@@ -1,3 +1,3 @@
-# Bookworm: Curated Reading Lists
+# Bibliophile: Curated Reading Lists
 
 书单汇集
